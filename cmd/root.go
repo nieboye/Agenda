@@ -5,9 +5,6 @@ import (
 	"os"
 	log "util/logger"
 
-	homedir "github.com/mitchellh/go-homedir"
-	"github.com/spf13/cobra"
-	"github.com/spf13/viper"
 )
 
 var RootCmd = &cobra.Command{
