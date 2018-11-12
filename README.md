@@ -53,7 +53,7 @@ Root Flags:
         --config string         config file (default is $HOME/.cobra.yaml) (default "./.cobra.yaml")
 Use "agenda [command] --help" for more information about a command.
 
-## 样例
+## æ ·ä¾‹
 
 register 
 
@@ -157,7 +157,7 @@ $ ./agenda-go.exe login -u lyb -p12345
 login called
 login called by lyb
 login with info password: 12345
-Error[login]： a nil user/*user is to be used
+Error[login]ï¼š a nil user/*user is to be used
 
 ```
 
